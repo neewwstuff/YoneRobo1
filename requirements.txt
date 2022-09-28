@@ -10,7 +10,6 @@ bleach
 emoji==1.6.3
 requests
 humanize
-speedtest-cli
 pretty_errors
 alphabet_detector
 wget
